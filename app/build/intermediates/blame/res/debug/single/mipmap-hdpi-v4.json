@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\GPS_service-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\GPS_service-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\amcomercial\\AndroidStudioProjects\\GPS_service-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\amcomercial\\AndroidStudioProjects\\GPS_service-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
